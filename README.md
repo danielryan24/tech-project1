@@ -7,4 +7,4 @@ Terdapat 4 halaman yaitu:
 3. Skill
 4. Blog
 
-Sebelumnya mohon maaf, kenapa commitnya cuma sekali karena sebelumnya salah direktori. Maka ketika di deploy webnya error. Maka dari itu saya mengubah direktorinya terlebih dahulu agar bisa di deploy. Alhasil commitnya hanya yang sebelum di masukkan ke github.
+Sebelumnya mohon maaf, kenapa commitnya cuma sekali karena sebelumnya salah direktori. Maka ketika di deploy webnya error. Maka dari itu saya mengubah direktorinya terlebih dahulu agar bisa di deploy. Alhasil commitnya yang sebelumnya hilang, dan sekarang yang ada hanya commit yang sebelum di masukkan ke github.
